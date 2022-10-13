@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hi !!
 
 segunda clase 
+=======
+Hi !! 
+
+K ace
+>>>>>>> 78bb3f45e18e07dbe05a2aaf6f853b5eb4904b78
